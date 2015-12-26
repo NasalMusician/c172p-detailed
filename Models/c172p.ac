@@ -2687,7 +2687,7 @@ refs 4
 kids 0
 OBJECT poly
 name "BeaconOffX"
-texture "transparent2.png"
+texture "lights.png"
 texrep 1 1
 numvert 8
 1.0000000 0.9998820 -0.0011390
@@ -95522,7 +95522,7 @@ refs 4
 kids 0
 OBJECT poly
 name "landinglight"
-texture "transparent2.png"
+texture "lights.png"
 texrep 1 1
 numvert 17
 -0.3399260 1.0074400 2.3825200
@@ -107608,7 +107608,7 @@ refs 4
 kids 0
 OBJECT poly
 name "navlight_back"
-texture "transparent2.png"
+texture "lights.png"
 texrep 1 1
 numvert 9
 6.1226902 0.8453245 -0.1308558
@@ -107672,7 +107672,7 @@ refs 3
 kids 0
 OBJECT poly
 name "navlight_left"
-texture "transparent2.png"
+texture "lights.png"
 texrep 1 1
 numvert 9
 0.3473750 0.4381230 5.6838412
@@ -107736,7 +107736,7 @@ refs 3
 kids 0
 OBJECT poly
 name "navlight_right"
-texture "transparent2.png"
+texture "lights.png"
 texrep 1 1
 numvert 9
 0.0928160 0.4381230 -5.6906290
@@ -122994,7 +122994,7 @@ refs 4
 kids 0
 OBJECT poly
 name "strobe1"
-texture "transparent2.png"
+texture "lights.png"
 texrep 1 1
 numvert 4
 -1.0000000 -1.0001180 -0.0011390
@@ -123017,7 +123017,7 @@ refs 3
 kids 0
 OBJECT poly
 name "strobe2"
-texture "transparent2.png"
+texture "lights.png"
 texrep 1 1
 numvert 4
 -1.0000000 -1.0001180 -0.0011390
