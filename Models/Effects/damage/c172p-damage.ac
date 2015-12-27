@@ -8947,7 +8947,7 @@ refs 4
 kids 0
 OBJECT poly
 name "landinglightBD"
-texture "transparent2.png"
+texture "lights.png"
 texrep 1 1
 numvert 17
 -0.3399260 1.0074400 2.3825200
@@ -9068,7 +9068,7 @@ kids 0
 OBJECT poly
 name "landinglightCollapse"
 loc -0.0809449 -0.1003962 0.0119171
-texture "transparent2.png"
+texture "lights.png"
 texrep 1 1
 numvert 17
 -0.3399260 1.0074400 2.3825200
@@ -21754,7 +21754,7 @@ kids 0
 OBJECT poly
 name "navlight_leftBD"
 loc -0.2040525 -2.5585775 1.1786205
-texture "transparent2.png"
+texture "lights.png"
 texrep 1 1
 numvert 9
 0.8720762 3.5457041 4.3915987
@@ -21819,7 +21819,7 @@ kids 0
 OBJECT poly
 name "navlight_leftCollapse"
 loc -0.2232939 0.2904475 -0.1525040
-texture "transparent2.png"
+texture "lights.png"
 texrep 1 1
 numvert 9
 0.3266166 -1.4010403 5.5271225
@@ -21884,7 +21884,7 @@ kids 0
 OBJECT poly
 name "navlight_leftD"
 loc -0.1085324 -1.0387611 0.2131102
-texture "transparent2.png"
+texture "lights.png"
 texrep 1 1
 numvert 9
 0.6784605 2.0502717 5.2872252
@@ -21949,7 +21949,7 @@ kids 0
 OBJECT poly
 name "navlight_leftDRB"
 loc -0.1085324 -1.0387611 0.2131102
-texture "transparent2.png"
+texture "lights.png"
 texrep 1 1
 numvert 9
 0.6784605 2.0502717 5.2872252
@@ -22013,7 +22013,7 @@ refs 3
 kids 0
 OBJECT poly
 name "navlight_leftGRB"
-texture "transparent2.png"
+texture "lights.png"
 texrep 1 1
 numvert 9
 0.3473750 0.4381230 5.6838412
@@ -22077,7 +22077,7 @@ refs 3
 kids 0
 OBJECT poly
 name "navlight_leftU"
-texture "transparent2.png"
+texture "lights.png"
 texrep 1 1
 numvert 9
 0.3473750 0.4381230 5.6838412
@@ -22142,7 +22142,7 @@ kids 0
 OBJECT poly
 name "navlight_rightBD"
 loc -0.9551159 -1.3598617 -0.6765590
-texture "transparent2.png"
+texture "lights.png"
 texrep 1 1
 numvert 9
 1.2886534 2.3322320 -5.0481572
@@ -22207,7 +22207,7 @@ kids 0
 OBJECT poly
 name "navlight_rightCollapse"
 loc -0.4368631 0.3830450 0.2261763
-texture "transparent2.png"
+texture "lights.png"
 texrep 1 1
 numvert 9
 0.5584354 -1.5245442 -5.4724526
@@ -22272,7 +22272,7 @@ kids 0
 OBJECT poly
 name "navlight_rightD"
 loc -0.4744770 -2.7312186 -1.4455967
-texture "transparent2.png"
+texture "lights.png"
 texrep 1 1
 numvert 9
 0.7545239 3.6716845 -4.3050265
@@ -22337,7 +22337,7 @@ kids 0
 OBJECT poly
 name "navlight_rightDLB"
 loc -0.4744770 -2.7312186 -1.4455967
-texture "transparent2.png"
+texture "lights.png"
 texrep 1 1
 numvert 9
 0.7545239 3.6716845 -4.3050265
@@ -22401,7 +22401,7 @@ refs 3
 kids 0
 OBJECT poly
 name "navlight_rightGLB"
-texture "transparent2.png"
+texture "lights.png"
 texrep 1 1
 numvert 9
 0.0928160 0.4381230 -5.6906290
@@ -22465,7 +22465,7 @@ refs 3
 kids 0
 OBJECT poly
 name "navlight_rightU"
-texture "transparent2.png"
+texture "lights.png"
 texrep 1 1
 numvert 9
 0.0928160 0.4381230 -5.6906290
@@ -46711,7 +46711,7 @@ refs 4
 kids 0
 OBJECT poly
 name "strobe1BD"
-texture "transparent2.png"
+texture "lights.png"
 texrep 1 1
 numvert 4
 -1.0000000 -1.0001180 -0.0011390
@@ -46734,7 +46734,7 @@ refs 3
 kids 0
 OBJECT poly
 name "strobe1Collapse"
-texture "transparent2.png"
+texture "lights.png"
 texrep 1 1
 numvert 4
 -1.0000000 -1.0001180 -0.0011390
@@ -46757,7 +46757,7 @@ refs 3
 kids 0
 OBJECT poly
 name "strobe2BD"
-texture "transparent2.png"
+texture "lights.png"
 texrep 1 1
 numvert 4
 -1.0000000 -1.0001180 -0.0011390
@@ -46780,7 +46780,7 @@ refs 3
 kids 0
 OBJECT poly
 name "strobe2Collapse"
-texture "transparent2.png"
+texture "lights.png"
 texrep 1 1
 numvert 4
 -1.0000000 -1.0001180 -0.0011390
